@@ -1,2 +1,3 @@
 # CompetitiveProgramming
-My random competitive programming solutions (+macros, custom header files and much more)
+***Nemo melior me est; ego ipse sum inimicus meus maximus.***
+*qvalentin*
