@@ -1,12 +1,13 @@
 /*  
     * author: qvalentin  
-
-    
-    * chr(69) + chr(88) + chr(88)  
     * https://codeforces.com/profile/qvalentin
+    * 
+    * It's you, it'll always be you *
     
-    * it's you, it'll always be you *
-    
+
+    * ketamina enjoyer
+	
+    * keetamyra <-- ketamina (intr un sens sau altul) *
 */
 
 #include <bits/stdc++.h>  
@@ -19,13 +20,13 @@ const int MOD = 1e9+7;
 int di[4]={0,0,-1,1};  
 int dj[4]={-1,1,0,0};  
       
-string FILENAME="alee";  
+string FILENAME="special";  
 ifstream f(FILENAME+".in");  
 ofstream g(FILENAME+".out");  
 
+
 signed main(){  
+    fastio    
+   return 0;
 
-    return 0;
-    
 }
-
