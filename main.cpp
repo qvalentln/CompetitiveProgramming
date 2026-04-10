@@ -3,11 +3,8 @@
     * https://codeforces.com/profile/qvalentin
     * 
     * It's you, it'll always be you *
-    
 
-    * ketamina enjoyer
-	
-    * keetamyra <-- ketamina (intr un sens sau altul) *
+    * keetamyra
 */
 
 #include <bits/stdc++.h>  
@@ -26,7 +23,14 @@ ofstream g(FILENAME+".out");
 
 
 signed main(){  
-    fastio    
-   return 0;
+    //fastio
+	// * test local
+    #ifndef qv
+    #define cin f
+    #define cout g
+    #endif
+
+    
+
 
 }
